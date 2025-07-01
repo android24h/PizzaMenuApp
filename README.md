@@ -40,3 +40,19 @@
 1. پروژه را کلون یا دانلود کنید:
    ```bash
    git clone https://github.com/نام_کاربری_شما/pizza-menu.git
+2- پروژه را با Android Studio باز و اجرا نمایید.
+
+## ساختار پروژه ├── MainActivity.kt
+├── PizzaMenu.kt
+├── DetailScreen.kt
+├── ColumnItemUi.kt
+├── DataModel.kt
+├── README.md
+└── screenshots/
+
+## توسعه دهنده:
+
+علیرضا حلوایی فرد
+GitHub: @android24h
+E-mail: ahf.programmer@gmail.com
+Gitd
